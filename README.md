@@ -4,7 +4,7 @@
   <img align="left" alt="Lian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> <br>
 
-My name is [Lian Araújo Fernandes] (https://lianaraujo.github.io/), a web developer.
+My name is [Lian Araújo Fernandes](https://lianaraujo.github.io/), a web developer.
 Also I am a Linux and open-source enthusiast.
 - 📫 How to reach me: liansutil@gmail.com;
 - 📝 [Resume](https://lianaraujo.github.io/assets/curriculo.pdf)
