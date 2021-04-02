@@ -1,7 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
+<a href="https://www.linkedin.com/in/lianfernandes/">
+  <img align="left" alt="Lian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+My name is Lian Araújo Fernandes and I am a web developer.
 <!--
-**lianaraujo/lianaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
