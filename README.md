@@ -1,15 +1,14 @@
 # Hi there 👋
 
-
-
-My name is [Lian Araújo Fernandes](https://lianaraujo.github.io/), a web developer.
+My name is Lian Araújo Fernandes, a web developer.
 Also I am a Linux and open-source enthusiast.
 - 📫 How to reach me: liansutil@gmail.com;
-- 📝 [Resume](https://lianaraujo.github.io/assets/curriculo.pdf)
+- 📝 [Resume](https://lianaraujo.github.io/assets/lian_software_engineer_resume.pdf)
   
-<a href="https://www.linkedin.com/in/lianfernandes/">
+<a style="display: block;" href="https://www.linkedin.com/in/lianfernandes/">
   <img align="left" alt="Lian's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a>  <br></br>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
