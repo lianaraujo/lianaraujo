@@ -9,7 +9,7 @@ Also I am a Linux and open-source enthusiast.
   
 <a href="https://www.linkedin.com/in/lianfernandes/">
   <img align="left" alt="Lian's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> <br>
+</a>
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
